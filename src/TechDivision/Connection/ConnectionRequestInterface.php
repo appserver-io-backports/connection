@@ -18,7 +18,7 @@
  * @link      https://github.com/techdivision/TechDivision_Connection
  */
 
-namespace \TechDivision\Connection;
+namespace TechDivision\Connection;
 
 /**
  * Interface ConnectionRequestInterface
