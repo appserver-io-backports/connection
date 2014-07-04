@@ -1,3 +1,3 @@
 TechDivision_Connection
 =======================
-A connection abstraction layer library
+Connection abstract layer implementation for usage in server context
