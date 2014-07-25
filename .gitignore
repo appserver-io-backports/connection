@@ -1,8 +1,12 @@
-.idea
-build.properties
+/.idea
+/.settings
+/.buildpath
+/.project
+/.DS_Store
 /target
 /instance-src
 /vendor
-/.buildpath
-/.project
-/.settings
+/build.properties
+/composer.lock
+/composer.phar
+/*.iml
