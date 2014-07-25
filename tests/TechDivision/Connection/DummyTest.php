@@ -22,7 +22,7 @@
 namespace TechDivision\Connection;
 
 /**
- * Interface ConnectionRequestInterface
+ * Dummy test implementation.
  *
  * @category  Library
  * @package   TechDivision_Connection
